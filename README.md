@@ -58,7 +58,7 @@
 <a href="https://twitter.com/ArzurUgo" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/twitter.svg" alt="ArzurUgo" height="30" width="40" /></a>
 <a href="https://fr.linkedin.com/in/ugarz" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="https://fr.linkedin.com/in/ugarz/" height="30" width="40" /></a>
 <a href="https://discord.gg/Ugo#7072" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="Ugo#7072" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/mastodon-icon.svg" alt="On Mastodon" height="30" width="40" /></a>
+<a href="https://eldritch.cafe/@ugo" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/mastodon-icon.svg" alt="On Mastodon" height="30" width="40" /></a>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/archive/c/cc/20220618022702%21OnlyFans_logo.svg" alt="My OnlyFan account" height="50" width="100" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
