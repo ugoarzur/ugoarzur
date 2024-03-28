@@ -25,46 +25,46 @@
 
 <h3 align="left">Languages and tools i do like to play with:</h3>
 <div style="display:flex; justify-content:space-around;">
-  <div><div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(50px, 1fr)); gap: 10px;">
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/solidity.svg" alt="solidity"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/figma.svg" alt="figma"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/ngrok.svg" alt="ngrok"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/zod.svg" alt="zod"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/openapi-icon.svg" alt="openapi"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/medusa-icon.svg" alt="medusajs"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/headlessui-icon.svg" alt="headless-ui"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/nx.svg" alt="nx"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/ethereum-color.svg" alt="ethereum"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/ethers.svg" alt="ethers-js"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/hardhat-icon.svg" alt="hardhat"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/metamask-icon.svg" alt="metamask"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/open-zeppelin-icon.svg" alt="open-zeppelin"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/mysql-icon.svg" alt="mysql"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/postman-icon.svg" alt="postman"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/insomnia.svg" alt="insomnia"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/vercel-icon.svg" alt="vercel"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/homebrew.svg" alt="homebrew"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind-css"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/atlassian.svg" alt="atlassian"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/docusaurus.svg" alt="docusaurus"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/serverless.svg" alt="serverless"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/expo-icon.svg" alt="expo"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/egghead.svg" alt="egghead"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/yarn.svg" alt="yarn"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/eslint.svg" alt="eslint"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/reactivex.svg" alt="rs-js"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/express.svg" alt="express-js"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/gitlab.svg" alt="gitlab"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgres-sql"/>
-  <img style="max-width: 70%; height: auto;" src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github"/>
+  <div><div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(8%, 1fr)); gap: 5%;">
+  <img src="https://cdn.svgporn.com/logos/solidity.svg" alt="solidity"/>
+  <img src="https://cdn.svgporn.com/logos/docker-icon.svg" alt="docker"/>
+  <img src="https://cdn.svgporn.com/logos/figma.svg" alt="figma"/>
+  <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git"/>
+  <img src="https://cdn.svgporn.com/logos/html-5.svg" alt="html5"/>
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs"/>
+  <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="nestjs"/>
+  <img src="https://cdn.svgporn.com/logos/typescript-icon.svg" alt="typescript"/>
+  <img src="https://cdn.svgporn.com/logos/ngrok.svg" alt="ngrok"/>
+  <img src="https://cdn.svgporn.com/logos/zod.svg" alt="zod"/>
+  <img src="https://cdn.svgporn.com/logos/openapi-icon.svg" alt="openapi"/>
+  <img src="https://cdn.svgporn.com/logos/nextjs-icon.svg" alt="nextjs"/>
+  <img src="https://cdn.svgporn.com/logos/medusa-icon.svg" alt="medusajs"/>
+  <img src="https://cdn.svgporn.com/logos/headlessui-icon.svg" alt="headless-ui"/>
+  <img src="https://cdn.svgporn.com/logos/nx.svg" alt="nx"/>
+  <img src="https://cdn.svgporn.com/logos/ethereum-color.svg" alt="ethereum"/>
+  <img src="https://cdn.svgporn.com/logos/ethers.svg" alt="ethers-js"/>
+  <img src="https://cdn.svgporn.com/logos/hardhat-icon.svg" alt="hardhat"/>
+  <img src="https://cdn.svgporn.com/logos/metamask-icon.svg" alt="metamask"/>
+  <img src="https://cdn.svgporn.com/logos/open-zeppelin-icon.svg" alt="open-zeppelin"/>
+  <img src="https://cdn.svgporn.com/logos/mysql-icon.svg" alt="mysql"/>
+  <img src="https://cdn.svgporn.com/logos/postman-icon.svg" alt="postman"/>
+  <img src="https://cdn.svgporn.com/logos/insomnia.svg" alt="insomnia"/>
+  <img src="https://cdn.svgporn.com/logos/vercel-icon.svg" alt="vercel"/>
+  <img src="https://cdn.svgporn.com/logos/homebrew.svg" alt="homebrew"/>
+  <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="vscode"/>
+  <img src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" alt="tailwind-css"/>
+  <img src="https://cdn.svgporn.com/logos/atlassian.svg" alt="atlassian"/>
+  <img src="https://cdn.svgporn.com/logos/docusaurus.svg" alt="docusaurus"/>
+  <img src="https://cdn.svgporn.com/logos/serverless.svg" alt="serverless"/>
+  <img src="https://cdn.svgporn.com/logos/expo-icon.svg" alt="expo"/>
+  <img src="https://cdn.svgporn.com/logos/egghead.svg" alt="egghead"/>
+  <img src="https://cdn.svgporn.com/logos/yarn.svg" alt="yarn"/>
+  <img src="https://cdn.svgporn.com/logos/eslint.svg" alt="eslint"/>
+  <img src="https://cdn.svgporn.com/logos/reactivex.svg" alt="rs-js"/>
+  <img src="https://cdn.svgporn.com/logos/express.svg" alt="express-js"/>
+  <img src="https://cdn.svgporn.com/logos/gitlab.svg" alt="gitlab"/>
+  <img src="https://cdn.svgporn.com/logos/postgresql.svg" alt="postgres-sql"/>
+  <img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="github"/>
 </div></div>
   <div><a href="https://app.daily.dev/ugoarzur"><img src="https://api.daily.dev/devcards/6007d79a905c4ae9ba196a57336463c3.png?r=8es" width=300 alt="Ugo's Dev Card"/></a></div>
 </div>
