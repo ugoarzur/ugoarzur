@@ -7,10 +7,10 @@
 
 <h4>💻 I tend to work for Emerging Businesses dealing with Blockchain or AI.</h4>
 <h5>Blockchain</h5>
-👨‍💻 I worked for Blockchain projects in **Smart contract** development ([Ethereum](https://ethereum.org/fr/) and [Polygon](https://polygon.technology/) environment) using [Solidity](https://soliditylang.org/). I have deployed several smart contracts to create, manage and publish NFTs associated with 3D Unity objects and art collection or even physical tracked luxury product.
+
+👨‍💻 I worked on Blockchain projects in **Smart contract** development using [Ethereum](https://ethereum.org) and [Polygon](https://polygon.technology) environment using [Solidity](https://soliditylang.org). I have deployed several smart contracts to create, manage and publish NFTs associated with 3D Unity objects and art collection or even physical tracked luxury product.
 
 🌱 Im exploring and learning to **create**, **manage** and **secure** smart contracts. I'm intrested in other projects like [Deso](https://www.deso.com/) protocol and Zero Knowledge Proofs (ZKPs) and cryptographic nerdy stuff like [Noir](https://noir-lang.org/).
-
 
 <h5>AI and Machine Learning</h5>
 For some months now I am working in AI, my last project was about image generation, fine-tuning and creating LoRa for realism fidelity. <br/>
