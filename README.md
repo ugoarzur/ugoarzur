@@ -1,27 +1,27 @@
 <h1 align="center">Hi 👋, I'm Ugo</h1>
-<h2 align="center">💻 Software Engineer Blockchain ⛓ at <a href="https://github.com/EYBlockchain" target="_blank">@EYBlockchain</a></h2>
-<h3 align="center">I'm a coding monkey 🦍 <br/>Interested in Blockchain, Web3, NFTs, DAOs and other tech topics.</h3>
+<h2 align="center">💻 Software Engineer at <a href="https://github.com/EYBlockchain" target="_blank">@EYBlockchain</a></h2>
+<h3 align="center">I'm a coding monkey 🦍</h3>
 
 <hr/>
 <br/>
 
-- 💻 I specialize in **Smart contract** development in Ethereum and Polygon environment on [Ethereum](https://ethereum.org/fr/) or [Polygon](https://polygon.technology/) with [Solidity](https://soliditylang.org/). I have deployed several smart contracts to create, manage and publish NFTs associated with 3D Unity objects, art collection or even physical tracked luxury product.
+<h4>💻 I tend to work for Emerging Businesses dealing with Blockchain or AI.</h4>
+<h5>Blockchain</h5>
+👨‍💻 I worked for Blockchain projects in **Smart contract** development ([Ethereum](https://ethereum.org/fr/) and [Polygon](https://polygon.technology/) environment) using [Solidity](https://soliditylang.org/). I have deployed several smart contracts to create, manage and publish NFTs associated with 3D Unity objects and art collection or even physical tracked luxury product.
 
-- 🌱 Im exploring and learning to **create**, **manage** and **secure** smart contracts. I'm intrested in other projects like [Deso](https://www.deso.com/) protocol and Zero Knowledge Proofs (ZKPs) and cryptographic nerdy stuff.
+🌱 Im exploring and learning to **create**, **manage** and **secure** smart contracts. I'm intrested in other projects like [Deso](https://www.deso.com/) protocol and Zero Knowledge Proofs (ZKPs) and cryptographic nerdy stuff like [Noir](https://noir-lang.org/).
 
-- 🚀 One day I'll take the next rocket to step up on [Rust](https://www.rust-lang.org/).
 
-- 💞️ I’m looking to collaborate on ambitious projects at <a href="https://github.com/EYBlockchain" target="_blank">@EYBlockchain</a></h2> helping clients to bloom with success.
+<h5>AI and Machine Learning</h5>
+For some months now I am working in AI, my last project was about image generation, fine-tuning and creating LoRa for realism fidelity. <br/>
+I am currently focusing on a small project building my own model for French Sign Language (like ASL but in French), my goal is to create a live sign transcriptor.
 
-- 🤝 I’m looking for help with **security and vulnerabilites on smart contract**
+<h4></h4>
+💞️ I’m looking to collaborate on ambitious projects at <a href="https://github.com/EYBlockchain" target="_blank">@EYBlockchain</a></h2> helping clients to bloom with success.
 
-- 👨‍💻 Most of my projects are privates, but some of them are public.
+👨‍💻 Most of my projects are privates, but some of them are public.
 
-- 💬 Ask me about **Blockchain, NFT, Metavers, Smart Contract**
-
-- 📫 How to reach me **ugo.arzur[ at ]fabernovel.ey.com**
-
-- ⚡ Fun fact Always free to discuss around tech/games/music even AI :)
+💬 Ask me about **Blockchain, or AI**
 
 <h2>Github Activity 📊</h2>
 <div>
@@ -42,9 +42,6 @@
 
 <h2>Contact Me on networks 📫</h2>
 <div style="display:flex; flex-direction:row;justify-content: space-evenly;">
-  <a href="https://twitter.com/ArzurUgo" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/twitter.svg" alt="ArzurUgo" height="30" width="40" /></a>
   <a href="https://fr.linkedin.com/in/ugarz" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="https://fr.linkedin.com/in/ugarz/" height="30" width="40" /></a>
-  <a href="https://discord.gg/Ugo#7072" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/discord-icon.svg" alt="Ugo#7072" height="30" width="40" /></a>
-  <a href="https://eldritch.cafe/@ugo" target="blank"><img align="center" src="https://cdn.svgporn.com/logos/mastodon-icon.svg" alt="On Mastodon" height="30" width="40" /></a>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/archive/c/cc/20220618022702%21OnlyFans_logo.svg" alt="My OnlyFan account" height="50" width="100" /></a>
 </div>
