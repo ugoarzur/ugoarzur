@@ -1,30 +1,113 @@
-<h1 align="center">Hi 👋, I'm Ugo</h1>
-<h2 align="center">💻 Software Engineer at <a href="https://github.com/faberNovel" target="_blank">EY Fabernovel</a></h2>
-<h3 align="center">I'm a coding monkey 🦍</h3>
+<div align="center">
 
-<h4>💻 I tend to work on emerging businesses project (like Blockchain or AI).</h4>
-<h5><b>Blockchain part</b></h5>
-<ul>
-<li>I worked on Blockchain projects dealing with <b>Smart contract</b> development using <a>Ethereum</a> and <a href="https://polygon.technology">Polygon</a> environment using <a href="https://soliditylang.org">Solidity</a>. I have deployed several smart contracts to create, manage and publish NFTs associated with 3D Unity assets, it was an art collection linked to physical tracked luxury products.</li>
-<li>🌱 Im exploring and learning to <b>create</b>,<b>manage</b> and <b>secure</b>smart contracts. I'm interested in other projects like <a href="https://www.deso.com">Deso</a> protocol and Zero Knowledge Proofs (ZKPs) and cryptographic nerdy stuff like <a href="https://noir-lang.org">Noir-lang</a>.</li>
-</ul>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Software+Engineer;Blockchain+Developer;AI+%26+ML+Explorer" alt="Typing SVG" /></a>
 
-<h5><b>AI and Machine Learning</b></h5>
-<ul>
-<li>For some months now I've worked on image generation, fine-tuning and creating LoRa's for realism fidelity. I managed to serve an image editor for my client allowing him to link Product Asset Manager to the website and ask contextual edits (with Flux Kontext) to modify the image according to prompts.</li>
-<li>I am currently focusing on a small project building my own model for French Sign Language (like ASL but in French), my goal is to create a live sign transcriptor.</li>
-</ul>
+### Ugo Arzur · Software Engineer at [EY Fabernovel](https://github.com/faberNovel)
 
-<h4>In general</h4>
-💞️ I’m looking to collaborate on ambitious projects at <a href="https://github.com/EYBlockchain" target="_blank">@EYBlockchain</a> and <a href="https://github.com/Fabernovel" target="_blank">@Fabernovel</a> helping clients to bloom with success.
+[![GitHub followers](https://img.shields.io/github/followers/ugoarzur?style=flat&logo=github&label=Followers&color=236ad3)](https://github.com/ugoarzur)
+[![Profile Views](https://komarev.com/ghpvc/?username=ugoarzur&style=flat&color=70a5fd)](https://github.com/ugoarzur)
 
-👨‍💻 Most of my projects are privates, but some of them are public.
+</div>
 
-<h2>Github Activity 📊</h2>
-<div>
-  <div>
-    <h4>Monthly Contribution Graph</h4>
-    <div style="display:flex; justify-content:center;">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugoarzur&theme=vue"  width="1200" height="auto"  alt="Monthly Contribution Graph" >
-    </div>
+---
+
+### `> whoami`
+
+- Building at the intersection of **Blockchain** and **AI/ML**
+- Shipping smart contracts, fine-tuning models, and everything in between
+- Currently crafting a **French Sign Language** live transcription model
+- Based in France, working with global teams at [EY Blockchain](https://github.com/EYBlockchain) & [Fabernovel](https://github.com/Fabernovel)
+
+---
+
+### Tech Stack
+
+**Languages**
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Blockchain**
+
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Noir](https://img.shields.io/badge/Noir--lang-000000?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
+
+**AI & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Flux](https://img.shields.io/badge/Flux-5C2D91?style=for-the-badge&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=for-the-badge&logoColor=white)
+
+**Tools & Platforms**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
+
+### What I'm Working On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⛓️ Blockchain
+
+Smart contracts on **Ethereum** & **Polygon** using Solidity — deployed NFT contracts tied to 3D Unity assets and physical luxury products. Currently diving deep into **Zero Knowledge Proofs** and **Noir-lang** for privacy-preserving systems.
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 AI & Machine Learning
+
+Image generation pipelines with **Flux Kontext** — built a product image editor connecting a PAM to contextual AI edits. Now building a custom model for **French Sign Language (LSF)** live transcription.
+
+</td>
+</tr>
+</table>
+
+---
+
+### Currently Exploring
+
+🔐 Zero Knowledge Proofs & cryptographic primitives
+🖋️ [Noir-lang](https://noir-lang.org) for ZK circuits
+🤟 French Sign Language recognition model (LSF)
+🌐 [DeSo](https://www.deso.com) protocol & decentralized social
+
+---
+
+### GitHub Stats
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" align="center">
+<img src="https://readme-stats-fast.vercel.app/api?username=ugoarzur&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=70A5FD&text_color=FFFFFF" width="100%" alt="GitHub Stats" />
+</td>
+<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com?user=ugoarzur&theme=tokyonight&hide_border=true&background=0D1117&ring=70A5FD&fire=70A5FD&currStreakLabel=70A5FD" width="100%" alt="GitHub Streak" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ugoarzur&theme=tokyonight" width="100%" alt="Contribution Graph" />
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+💬 Open to collaborate on ambitious projects at [**@EYBlockchain**](https://github.com/EYBlockchain) and [**@Fabernovel**](https://github.com/Fabernovel)
+
+*Most of my work is in private repos — what you see here is the tip of the iceberg.*
+
 </div>
