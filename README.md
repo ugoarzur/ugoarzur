@@ -60,7 +60,7 @@ Building and shipping APIs, microservices, and cloud infrastructure for clients 
 
 #### ⛓️ Blockchain
 
-<p>Smart contracts on **Ethereum** & **Polygon** using Solidity — deployed NFT contracts tied to 3D Unity assets and physical luxury products. Currently diving deep into **Zero Knowledge Proofs** and **Noir-lang** for privacy-preserving systems.</p>
+<p>Smart contracts on <b>Ethereum</b> with <b>Polygon</b> using Solidity — deployed NFT contracts tied to 3D Unity assets and physical luxury products. Leaning into <b>Zero Knowledge Proofs</b> and <b>Noir-lang</b> DSL (Domain Specific Language) for privacy-preserving systems.</p>
 
 </td>
 <td width="50%" valign="top">
@@ -73,7 +73,7 @@ Image generation pipelines with **Flux Kontext** — built a product image edito
 </tr>
 </table>
 
-**Blockchain**
+<b>Blockchain</b>
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
@@ -81,7 +81,7 @@ Image generation pipelines with **Flux Kontext** — built a product image edito
 ![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black)
 ![Noir](https://img.shields.io/badge/Noir--lang-000000?style=for-the-badge&logoColor=white)
 
-**AI & ML**
+<b>AI & ML</b>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Flux](https://img.shields.io/badge/Flux-5C2D91?style=for-the-badge&logoColor=white)
